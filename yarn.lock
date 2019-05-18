@@ -1936,6 +1936,13 @@ bson@~1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/bson/-/bson-1.0.4.tgz#93c10d39eaa5b58415cbc4052f3e53e562b0b72c"
 
+buefy@^0.7.5:
+  version "0.7.5"
+  resolved "https://registry.yarnpkg.com/buefy/-/buefy-0.7.5.tgz#d25fcbb69beeb898849b47b52be78dfd2849452f"
+  integrity sha512-p6yz4XKbfXZd4f9d5rLHXCZWl9Y+8bN7gTaFQ4VdLXh7bdo4WYkPYyFyUFE+fIXhx/VEzSh2TeCEYqn/e8xY8w==
+  dependencies:
+    bulma "0.7.4"
+
 buffer-shims@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/buffer-shims/-/buffer-shims-1.0.0.tgz#9978ce317388c649ad8793028c3477ef044a8b51"
@@ -1959,6 +1966,11 @@ builtin-modules@^1.0.0, builtin-modules@^1.1.1:
 builtin-status-codes@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/builtin-status-codes/-/builtin-status-codes-3.0.0.tgz#85982878e21b98e1c66425e03d0174788f569ee8"
+
+bulma@0.7.4:
+  version "0.7.4"
+  resolved "https://registry.yarnpkg.com/bulma/-/bulma-0.7.4.tgz#7e74512e9118d9799021339e67e365ee0ac4f3f9"
+  integrity sha512-krG2rP6eAX1WE0sf6O0SC/FUVSOBX4m1PBC2+GKLpb2pX0qanaDqcv9U2nu75egFrsHkI0zdWYuk/oGwoszVWg==
 
 bytes@2.3.0:
   version "2.3.0"

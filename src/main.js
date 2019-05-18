@@ -9,6 +9,10 @@ import store from './store';
 import routes from './routes';
 import config from '../config';
 import './css';
+import Buefy from 'buefy';
+import 'buefy/dist/buefy.css';
+
+Vue.use(Buefy);
 
 const graphqlPort = config.graphql.port;
 
