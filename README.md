@@ -15,3 +15,17 @@
   * Find Emojis from servers you're in.
   * Easily add Emojis to your servers in one click.
   * Add packs of Emojis into your server in one click.
+
+
+### To-Do-List
+
+- [x] Start Development
+- [ ] Authenication Pop Up
+- [ ] Dashboard Layout
+- [ ] Server List
+- [ ] Server Emoji List
+- [ ] Server Emoji Configuration
+- [ ] Emoji List
+- [ ] Emoji Add-To-Server button
+- [ ] Emoji Packs
+- [ ] Review Code
