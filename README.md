@@ -1,29 +1,17 @@
-# src
+# Discord Emoji Manager
 
-## Project setup
-```
-yarn install
-```
+#### Mainly developed by: khai93
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+> I used Vue, Axios, Buefy in this project.
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+### Features
 
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* Management
+  * Remove multiple emojis at once.
+  * Remove all emojis at once.
+  * Better listing style for long emoji lists.
+  
+* Adding Emojis
+  * Find Emojis from servers you're in.
+  * Easily add Emojis to your servers in one click.
+  * Add packs of Emojis
