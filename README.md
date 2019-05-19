@@ -4,6 +4,8 @@
 
 > I used Vue, Axios, and Buefy in this project.
 
+## Server-side: https://github.com/yeno-team/discord-emoji-manager-server
+
 ### Features
 
 * Management
