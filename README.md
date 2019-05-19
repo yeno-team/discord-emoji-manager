@@ -2,7 +2,7 @@
 
 #### Mainly developed by: khai93
 
-> I used Vue, Axios, Buefy in this project.
+> I used Vue, Axios, and Buefy in this project.
 
 ### Features
 
