@@ -1,24 +1,29 @@
 # Discord Emoji Manager
 
-#### Mainly developed by: khai93
+### Technologies Used
 
-> I used Vue, Axios, and Buefy in this project.
+* Netlify & Netlify Lambda
+* FaunaDB
+* Express
+* Vue + Buefy
 
-### Server-side: https://github.com/yeno-team/discord-emoji-manager-server
+
+
+##### Server: [Server-side Repository](https://github.com/yeno-team/discord-emoji-manager-server)
 
 ### Features
 
-* Management
+* **Management**
   * Remove multiple emojis at once.
   * Remove all emojis at once.
   * Better listing style for long emoji lists.
   
-* Adding Emojis
+* **Adding Emojis**
   * Find Emojis from servers you're in.
   * Easily add Emojis to your servers in one click.
   * Add packs of Emojis into your server in one click.
 
-* Saving Emojis
+* **Saving Emojis**
   * Save your current emojis in a pack.
   * Load your old emojis after fiddling with them!
 
