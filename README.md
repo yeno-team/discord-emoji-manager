@@ -4,7 +4,8 @@
 
 * Netlify & Netlify Lambda
 * FaunaDB
-* Express
+* Express + Passport
+* Cloudinary
 * Vue + Buefy
 
 
