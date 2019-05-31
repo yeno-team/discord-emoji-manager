@@ -32,7 +32,7 @@
 ### To-Do-List
 
 - [x] Start Development
-- [ ] Authenication Pop Up
+- [ ] Authenication Page
 - [ ] Dashboard Layout
 - [ ] Server List
 - [ ] Server Emoji List
