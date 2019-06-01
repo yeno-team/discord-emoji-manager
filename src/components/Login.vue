@@ -21,8 +21,7 @@ export default {
   },
   methods: {
       login () {
-          const redirect_url = `${window.location.protocol}//${window.location.host}/api/auth/callback`;
-          window.location.href = `https://discordapp.com/oauth2/authorize?response_type=code&redirect_uri=${redirect_url}&scope=identify%20guilds&client_id=579485779278037012`;
+          return window.location.href = '/api/auth';
       }
   }
 }
