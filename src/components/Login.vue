@@ -17,7 +17,7 @@ export default {
   name: 'Home',
   mounted () {
     // eslint-disable-next-line
-    console.log(this);
+    console.log('created', this);
   },
   methods: {
       login () {
